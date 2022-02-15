@@ -1,0 +1,40 @@
+    1  git--version
+    2  git --version
+    3  node --version
+    4  npm --version
+    5  npx --version
+    6  git config --global user.name "Alexa276"
+    7  git config --global user.email "AlexaReyesRojas02@gmail.com"
+    8  git config --global init.defaultBranch main
+    9  git config --global --list
+   10  history 
+   11  pwd
+   12  clear
+   13  ls
+   14  mkdir introbash
+   15  rmdir
+   16  rmdir introbash
+   17  gh
+   18  gh
+   19  gh
+   20  pwd
+   21  cd flexbox-garden
+   22  cd
+   23  cd "flexbox-garden"
+   24  cd escritorio 
+   25  git init
+   26  code .
+   27  touch README.md
+   28  git add .
+   29  git commit-m "reactpractice"
+   30  git commit -m "reactpractice"
+   31  gh repo create
+   32  git push --set-upstream origin main
+   33  git add .
+   34  git commit -m "README"
+   35  git push
+   36  ls -a
+   37  cat .gitignore
+   38  ls -a
+   39  cat .gitignore
+   40  history > history.txt
